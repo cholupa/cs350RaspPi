@@ -1,4 +1,9 @@
 # cs350RaspPi
+
+Derek Hui CS-350 
+
+
+
 A  continuous circuit build to a breadboard thermostat.
 
 
